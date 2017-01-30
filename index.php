@@ -1,3 +1,3 @@
 <?
 
-echo "app-php in docker";
+echo "app-php in docker version 1.2";
